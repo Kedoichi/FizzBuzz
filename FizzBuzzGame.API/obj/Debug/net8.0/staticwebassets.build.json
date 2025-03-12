@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sm24WjoZ+TAWVWuARGdiPgbK5uqIKymoU3E/6kff2yc=",
+  "Source": "FizzBuzzGame.API",
+  "BasePath": "_content/FizzBuzzGame.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

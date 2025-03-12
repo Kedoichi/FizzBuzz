@@ -1,0 +1,11 @@
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Core/bin/Debug/net8.0/FizzBuzzGame.Core.deps.json
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Core/bin/Debug/net8.0/FizzBuzzGame.Core.dll
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Core/bin/Debug/net8.0/FizzBuzzGame.Core.pdb
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Core/obj/Debug/net8.0/FizzBuzzGame.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Core/obj/Debug/net8.0/FizzBuzzGame.Core.AssemblyInfoInputs.cache
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Core/obj/Debug/net8.0/FizzBuzzGame.Core.AssemblyInfo.cs
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Core/obj/Debug/net8.0/FizzBuzzGame.Core.csproj.CoreCompileInputs.cache
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Core/obj/Debug/net8.0/FizzBuzzGame.Core.dll
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Core/obj/Debug/net8.0/refint/FizzBuzzGame.Core.dll
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Core/obj/Debug/net8.0/FizzBuzzGame.Core.pdb
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Core/obj/Debug/net8.0/ref/FizzBuzzGame.Core.dll

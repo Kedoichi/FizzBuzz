@@ -1,0 +1,17 @@
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/bin/Debug/net8.0/FizzBuzzGame.Infrastructure.deps.json
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/bin/Debug/net8.0/FizzBuzzGame.Infrastructure.runtimeconfig.json
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/bin/Debug/net8.0/FizzBuzzGame.Infrastructure.dll
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/bin/Debug/net8.0/FizzBuzzGame.Infrastructure.pdb
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/bin/Debug/net8.0/FizzBuzzGame.Core.dll
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/bin/Debug/net8.0/FizzBuzzGame.Core.pdb
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/obj/Debug/net8.0/FizzBuzzGame.Infrastructure.csproj.AssemblyReference.cache
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/obj/Debug/net8.0/FizzBuzzGame.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/obj/Debug/net8.0/FizzBuzzGame.Infrastructure.AssemblyInfoInputs.cache
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/obj/Debug/net8.0/FizzBuzzGame.Infrastructure.AssemblyInfo.cs
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/obj/Debug/net8.0/FizzBuzzGame.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/obj/Debug/net8.0/FizzBuzz.872BCA59.Up2Date
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/obj/Debug/net8.0/FizzBuzzGame.Infrastructure.dll
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/obj/Debug/net8.0/refint/FizzBuzzGame.Infrastructure.dll
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/obj/Debug/net8.0/FizzBuzzGame.Infrastructure.pdb
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/obj/Debug/net8.0/FizzBuzzGame.Infrastructure.genruntimeconfig.cache
+/Users/quocchic/Dev/JRM/Final/FizzBuzzGame.Infrastructure/obj/Debug/net8.0/ref/FizzBuzzGame.Infrastructure.dll

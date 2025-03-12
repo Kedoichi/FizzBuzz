@@ -1,0 +1,30 @@
+version: "3.8"
+
+services:
+    frontend:
+        build:
+            context: ./frontend
+            dockerfile: Dockerfile
+        ports:
+            - "3000:3000"
+        environment:
+            - NEXT_PUBLIC_API_URL=http://localhost:7056
+        depends_on:
+            - backend
+        networks:
+            - fizzbuzz-network
+
+    backend:
+        build:
+            context: . # Use the root directory
+            dockerfile: FizzBuzzGame.API/Dockerfile
+        ports:
+            - "7056:7056"
+        environment:
+            - ASPNETCORE_ENVIRONMENT=Production
+        networks:
+            - fizzbuzz-network
+
+networks:
+    fizzbuzz-network:
+        driver: bridge

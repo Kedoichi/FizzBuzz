@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzGame.API", "FizzBuzzGame.API\FizzBuzzGame.API.csproj", "{426F1286-6F57-427E-95EF-B4EB2D7CCAF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzGame.Core", "FizzBuzzGame.Core\FizzBuzzGame.Core.csproj", "{02DB85E6-0E27-4CBF-B25A-784E057EEC09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzGame.Infrastructure", "FizzBuzzGame.Infrastructure\FizzBuzzGame.Infrastructure.csproj", "{43C11A6E-FF7A-4F27-A1BF-58A31EDA05BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzGame.Tests", "FizzBuzzGame.Tests\FizzBuzzGame.Tests.csproj", "{7B7FA52A-BC19-4B21-B274-FCBEDDBF2361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{426F1286-6F57-427E-95EF-B4EB2D7CCAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426F1286-6F57-427E-95EF-B4EB2D7CCAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426F1286-6F57-427E-95EF-B4EB2D7CCAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426F1286-6F57-427E-95EF-B4EB2D7CCAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DB85E6-0E27-4CBF-B25A-784E057EEC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DB85E6-0E27-4CBF-B25A-784E057EEC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DB85E6-0E27-4CBF-B25A-784E057EEC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DB85E6-0E27-4CBF-B25A-784E057EEC09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43C11A6E-FF7A-4F27-A1BF-58A31EDA05BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C11A6E-FF7A-4F27-A1BF-58A31EDA05BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C11A6E-FF7A-4F27-A1BF-58A31EDA05BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C11A6E-FF7A-4F27-A1BF-58A31EDA05BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7FA52A-BC19-4B21-B274-FCBEDDBF2361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7FA52A-BC19-4B21-B274-FCBEDDBF2361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7FA52A-BC19-4B21-B274-FCBEDDBF2361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7FA52A-BC19-4B21-B274-FCBEDDBF2361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
